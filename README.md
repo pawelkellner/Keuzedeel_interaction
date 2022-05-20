@@ -7,7 +7,7 @@ In dit repo staan alle bewijst stukken wat betreft PFP.
 
 - [ ] Onderzoek klant en product:
 - [ ] Persona:
-- [x] Userstories:
+- [x] Userstories: [Trello](https://trello.com/b/yfcmdVdI/add-energy)
 - [ ] Moodboard:
 - [ ] Styleboard:
 - [ ] Wireframes:
@@ -16,4 +16,3 @@ In dit repo staan alle bewijst stukken wat betreft PFP.
 - [ ] Vertaling van visueel ontwerp naar prototype d.m.v. realisatie in HTML/CSS/JS:
 - [ ] Presentatie gerealiseerd prototype:
 
-[Trello](https://trello.com/b/yfcmdVdI/add-energy)
