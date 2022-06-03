@@ -12,7 +12,7 @@ In dit repo staan alle bewijst stukken wat betreft PFP.
 - [ ] Styleboard:
 - [ ] Wireframes:
 - [ ] Visueel ontwerp (XD):
-- [ ] Onderzoek testen met de doelgroep:
+- [x] Onderzoek testen met de doelgroep: Ab test pdf staat in "Bewijs stukken"
 - [ ] Vertaling van visueel ontwerp naar prototype d.m.v. realisatie in HTML/CSS/JS:
 - [ ] Presentatie gerealiseerd prototype:
 
